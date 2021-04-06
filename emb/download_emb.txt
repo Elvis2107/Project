@@ -1,0 +1,1 @@
+https://www.kaggle.com/shonenkov/fasttext-300-russian-crawl-pickle
